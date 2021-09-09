@@ -9,3 +9,5 @@ Zudem müssen folgende Pakete installiert werden:
 - pandas
 - opencv-python
 - tensorflow
+
+Dieses Projekt wurde von Moritz Neubert, Jonas Mannß, Marvin Kuth, Henry Juncker und Sebastian Straub erstellt.
